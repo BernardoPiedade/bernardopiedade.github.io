@@ -1,0 +1,24 @@
+div.index h1{
+	color: white;
+}
+
+div.index p{
+	color: #e8641b;
+}
+
+.a-work:link, .a-work:visited, .a-work:hover{
+	color: whitesmoke;
+	text-decoration: none;
+}
+
+button.btn{
+	background-color: #e8641b;
+}
+
+
+
+@media screen and (min-width: 992px){
+	img.index{
+		float: right;
+	}
+}
