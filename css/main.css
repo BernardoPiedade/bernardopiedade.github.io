@@ -11,11 +11,11 @@ a.active {
 	color: #e8641b !important;
 }
 
-div.index h1{
+div.index h1, div.index p{
 	color: white;
 }
 
-div.index h5{
+div.index h5, div.index h2{
 	color: #e8641b;
 }
 
@@ -26,6 +26,29 @@ div.index h5{
 
 button.btn{
 	background-color: #e8641b;
+}
+
+.a-me:link, .a-me:visited, .a-me_hover{
+	color: whitesmoke;
+	text-decoration: none;
+}
+
+button.btn-me{
+	background-color: #363636;
+	border: 1px solid #e8641b;
+}
+
+span.d{
+	color: #e8641b !important;
+}
+
+thead{
+	background-color: #e8641b !important;
+	color: white !important;
+}
+
+tr{
+	color: white !important;
 }
 
 .fab{
