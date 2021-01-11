@@ -51,7 +51,7 @@ tr{
 	color: white !important;
 }
 
-.fab{
+.fab, .fas{
 	color: #e8641b;
 	font-size: 20px;
 }
